@@ -14,7 +14,7 @@ import {
   SessionAttendanceStudent,
 } from '../types';
 
-const API_BASE_URL = 'https://8700-2409-40e1-344f-e179-3705-4431-c50b-d4e.ngrok-free.app';
+const API_BASE_URL = 'https://attendence-rohn.onrender.com';
 
 class ApiService {
   private client: AxiosInstance;
